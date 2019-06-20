@@ -34,10 +34,6 @@
 
 * ARO Demo Video (cannot share the link yet).
 
-== Q&A [15 mins]
-
-* Interactive Q&A, what else do you need to know, etc
-
 = Part 2: Innovation
 
 == Building Partner Value Add - Whiteboarding: Value Add to OpenShift on Azure [20 mins]
