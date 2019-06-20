@@ -1,48 +1,54 @@
 :toc:
 
-# openshift-on-azure-lab
+# openshift-on-azure-lab [1.5 hours]
 
-= Introduction
+= Introductions [5 mins]
 
-== Who do we have in this room
+= Part 1: Information 
 
-= Understand the different versions of OpenmShift on Azure [20 mins]
+=== Who do we have in this room
 
-* Micro Presentation, slides available HERE
-
-== OpenShift on Azure Integration
+== Understand the different versions of OpenShift on Azure [25 mins]
 
 * Micro Presentation, slides available HERE
 
-== Architecture Overview
+=== OpenShift on Azure Integration
 
 * Micro Presentation, slides available HERE
 
-== Service Broker
+=== Architecture Overview
 
 * Micro Presentation, slides available HERE
 
-= ARO [20 mins]
-
-== ARO Presentation
+=== Service Broker
 
 * Micro Presentation, slides available HERE
 
-== ARO Demo Video 
+== ARO [15 mins]
+
+=== ARO Presentation
+
+* Micro Presentation, slides available HERE
+
+=== ARO Demo Video 
 
 * ARO Demo Video (cannot share the link yet).
 
-= Q&A [15 mins]
+== Q&A [15 mins]
 
 * Interactive Q&A, what else do you need to know, etc
 
-= Building Partner Value Add - Whiteboarding: Value Add to OpenShift on Azure [30 mins]
+= Part 2: Innovation
 
-== Identifying Next steps [15 mins]
+== Building Partner Value Add - Whiteboarding: Value Add to OpenShift on Azure [20 mins]
+
+== Presenting your Value Add [10 mins]
+
+= Part 3: Summary & Identifying Next steps [15 mins]
 
 * Actions, follow-ups
 
-== Resources
+=== Resources
 
 * Product Pges: https://www.openshift.com/products/azure-openshift[ARO Product Page]
 * Pricing: https://azure.microsoft.com/en-us/pricing/details/openshift/[Azure Pricing Page]
