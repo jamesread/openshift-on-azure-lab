@@ -70,7 +70,8 @@ The rules to this are otherwise very open for you to interpret.
 * OpenShift v3 Workshop: https://github.com/RedHatWorkshops/openshiftv3-workshop
 * Product Pages: https://www.openshift.com/products/azure-openshift[ARO Product Page]
 * Pricing: https://azure.microsoft.com/en-us/pricing/details/openshift/[Azure Pricing Page]
-* ARO Technical Lab: https://gitlab.com/redhatsummitlabs/experience-managed-openshift-on-azure[Technical Lab from Summit]
+* ARO Technical Lab from Red Hat summit: https://gitlab.com/redhatsummitlabs/experience-managed-openshift-on-azure[Technical Lab from Summit]
+* ARO Technical Lab from Microsoft: http://aroworkshop.io/
 
 == Presenting your Value Add [10 mins]
 
