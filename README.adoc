@@ -1,6 +1,6 @@
-# openshift-on-azure-lab
-
 :toc:
+
+# openshift-on-azure-lab
 
 = Introduction
 
