@@ -1,0 +1,23 @@
+# openshift-on-azure-lab
+
+= Understand the different versions of OpenmShift on Azure
+
+= OpenShift on Azure Integration
+
+== Architecture Overview
+
+== Service Broker
+
+= ARO
+
+== ARO Demo Video
+
+James & Toni will present a ARO Demo Video (cannot share the link yet).
+
+== Product Pages
+
+* https://www.openshift.com/products/azure-openshift
+
+== ARO Pricing
+
+* [ARO Pricing]https://azure.microsoft.com/en-us/pricing/details/openshift/

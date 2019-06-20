@@ -1,1 +1,0 @@
-# openshift-on-azure-lab
