@@ -1,5 +1,7 @@
 # openshift-on-azure-lab
 
+:toc:
+
 = Introduction
 
 == Who do we have in this room
