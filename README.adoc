@@ -4,7 +4,7 @@
 
 = Introductions [5 mins]
 
-= Part 1: Information 
+= Part 1: Information! 
 
 === Who do we have in this room
 
@@ -34,9 +34,43 @@
 
 * ARO Demo Video (cannot share the link yet).
 
-= Part 2: Innovation
+= Part 2: Innovation!
 
 == Building Partner Value Add - Whiteboarding: Value Add to OpenShift on Azure [20 mins]
+
+=== Task Description
+
+You are being asked to whiteboard how you, as a Red Hat Partner could create a
+**customer offering** around OpenShift on Azure. We'd like you to think about;
+
+* What could this offering look like from a technical perspective?
+** eg: Technical Architecture
+* What would you, as a Red Hat Partner, do in this offering?
+** What skills, experience and resources would you need?
+** How can you make margin (money)?
+* What is the value to the customer for this offering?
+
+Some examples of offerings to give you ideas;
+
+* A managed AppDev PaaS service based on OCP or ARO
+* Consulting service offering around installing OCP on Azure
+* A quickstart...
+
+The rules to this are otherwise very open for you to interpret. 
+
+=== Rules for presentating back to the group
+
+* Everybody from the group should talk at least once
+* Aim for your session to be between 3 - 5 minutes
+* You can use any resources - slides, pens, papers, demos, etc!
+* There are no wrong answers, but ask if you need help!
+
+=== Resources that can help
+
+* OpenShift v3 Workshop: https://github.com/RedHatWorkshops/openshiftv3-workshop
+* Product Pages: https://www.openshift.com/products/azure-openshift[ARO Product Page]
+* Pricing: https://azure.microsoft.com/en-us/pricing/details/openshift/[Azure Pricing Page]
+* ARO Technical Lab: https://gitlab.com/redhatsummitlabs/experience-managed-openshift-on-azure[Technical Lab from Summit]
 
 == Presenting your Value Add [10 mins]
 
@@ -44,8 +78,3 @@
 
 * Actions, follow-ups
 
-=== Resources
-
-* Product Pges: https://www.openshift.com/products/azure-openshift[ARO Product Page]
-* Pricing: https://azure.microsoft.com/en-us/pricing/details/openshift/[Azure Pricing Page]
-* Technical Lab: https://gitlab.com/redhatsummitlabs/experience-managed-openshift-on-azure[Technical Lab from Summit]
