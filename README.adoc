@@ -16,8 +16,8 @@ James & Toni will present a ARO Demo Video (cannot share the link yet).
 
 == Product Pages
 
-* https://www.openshift.com/products/azure-openshift
+* https://www.openshift.com/products/azure-openshift[ARO Product Page]
 
 == ARO Pricing
 
-* [ARO Pricing]https://azure.microsoft.com/en-us/pricing/details/openshift/
+* https://azure.microsoft.com/en-us/pricing/details/openshift/[Azure Pricing Page]
