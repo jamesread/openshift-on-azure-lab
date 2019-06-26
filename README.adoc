@@ -1,6 +1,6 @@
 :toc:
 
-# openshift-on-azure-lab [1.5 hours]
+# openshift-on-azure-partner-tech-sales-lab [1.5 hours]
 
 = Introductions [5 mins]
 
