@@ -10,12 +10,14 @@
 
 == Essential Sales intro: OpenShift on Azure [25 mins]
 
+=== General OpenShift on Azure [15 mins]
+
 * ARO vs OpensShift
 * OpenShift on Azure Integration
 * Architecture Overview
 * Service Broker
 
-=== ARO [15 mins]
+=== ARO [10 mins]
 
 * ARO Presentation
 * ARO Demo Video 
