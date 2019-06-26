@@ -24,7 +24,7 @@
 
 = Part 2: Innovation!
 
-== Building Partner Value Add - Whiteboarding: Value Add to OpenShift on Azure [20 mins]
+== Building Partner Value Add - Whiteboarding: Value Add to OpenShift on Azure [45 mins]
 
 === Task Description
 
