@@ -8,7 +8,7 @@
 
 === Who do we have in this room
 
-== Essential Sales intro: OpenShift on Azure [40 mins]
+== Essential Technical Sales intro: OpenShift on Azure [40 mins]
 
 === General OpenShift on Azure [25 mins]
 
