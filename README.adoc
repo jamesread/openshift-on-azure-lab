@@ -8,31 +8,17 @@
 
 === Who do we have in this room
 
-== Understand the different versions of OpenShift on Azure [25 mins]
+== Essential Sales intro: OpenShift on Azure [25 mins]
 
-* Micro Presentation, slides available HERE
+* ARO vs OpensShift
+* OpenShift on Azure Integration
+* Architecture Overview
+* Service Broker
 
-=== OpenShift on Azure Integration
+=== ARO [15 mins]
 
-* Micro Presentation, slides available HERE
-
-=== Architecture Overview
-
-* Micro Presentation, slides available HERE
-
-=== Service Broker
-
-* Micro Presentation, slides available HERE
-
-== ARO [15 mins]
-
-=== ARO Presentation
-
-* Micro Presentation, slides available HERE
-
-=== ARO Demo Video 
-
-* ARO Demo Video (cannot share the link yet).
+* ARO Presentation
+* ARO Demo Video 
 
 = Part 2: Innovation!
 
