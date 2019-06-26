@@ -8,16 +8,16 @@
 
 === Who do we have in this room
 
-== Essential Sales intro: OpenShift on Azure [25 mins]
+== Essential Sales intro: OpenShift on Azure [40 mins]
 
-=== General OpenShift on Azure [15 mins]
+=== General OpenShift on Azure [25 mins]
 
 * ARO vs OpensShift
 * OpenShift on Azure Integration
 * Architecture Overview
 * Service Broker
 
-=== ARO [10 mins]
+=== ARO [15 mins]
 
 * ARO Presentation
 * ARO Demo Video 
